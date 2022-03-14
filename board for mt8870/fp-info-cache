@@ -1,4 +1,4 @@
-19866519823966874
+19868165727613577
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51400,6 +51400,13 @@ Inductor
 0
 2
 2
+Evan's misc parts
+PLCC127P1750X1750X457-44N
+plcc44
+Integrated Circuit
+0
+44
+44
 Evan's misc parts
 ProMicro
 Pro Micro footprint
